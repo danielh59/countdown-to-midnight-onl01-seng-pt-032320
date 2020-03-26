@@ -3,7 +3,6 @@
 while x > 0
   puts "#{x} SECOND(S)!"
    x -= 1
- break
  end
 return "HAPPY NEW YEAR!"
 end
