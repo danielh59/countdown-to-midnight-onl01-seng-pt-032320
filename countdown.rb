@@ -6,5 +6,4 @@ while x > 0
  break
  end
 return "HAPPY NEW YEAR!"
-
 end
